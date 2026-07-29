@@ -1,4 +1,4 @@
-# Arduino TFT Tetris
+# Arduino TFT Handheld Games
 
 A handheld Tetris prototype built using an Arduino Nano and an Adafruit ST7735 TFT display.
 
